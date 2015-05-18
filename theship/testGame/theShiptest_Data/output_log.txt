@@ -1,0 +1,44 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) Graphics Media Accelerator HD (ID=0x46)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.208 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+UnloadTime: 0.463303 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 253.
+Total: 1.291181 ms (FindLiveObjects: 0.029890 ms CreateObjectMapping: 0.021285 ms MarkObjects: 0.342382 ms  DeleteObjects: 0.019021 ms)
+
+Platform assembly: C:\Users\Patrick\Documents\theship\testGame\theShiptest_Data\Managed\Boo.Lang.dll (this message is harmless)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at Detonator.DefaultFireballAMaterial () [0x00000] in <filename unknown>:0 
+  at Detonator.FillDefaultMaterials () [0x00000] in <filename unknown>:0 
+  at Detonator.Awake () [0x00000] in <filename unknown>:0 
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+bowFire:Update()
+ 
+(Filename:  Line: -1)
+

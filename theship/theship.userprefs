@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader">
+    <Files>
+      <File FileName="Assets\Scripts\AI-Script\movementEnemy.cs" Line="20" Column="48" />
+      <File FileName="Assets\Scripts\TitleGUI.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RunAndCrouch.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BowDisable.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\bowFire.js" Line="7" Column="32" />
+      <File FileName="Assets\Scripts\winGUI.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AI-Script\Attack.js" Line="14" Column="32" />
+      <File FileName="Assets\Scripts\AI-Script\TriggerZone.js" Line="11" Column="8" />
+      <File FileName="Assets\Scripts\AI-Script\collideGunScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AI-Script\enemyTrigger.js" Line="12" Column="11" />
+      <File FileName="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
